@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+__pycache__/
+working/_exports/
+__pycache__/
+*.pyc
+.DS_Store
